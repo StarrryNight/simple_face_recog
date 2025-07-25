@@ -1,6 +1,7 @@
 # Face Recognition System
 
 A real-time face recognition system built with Python, OpenCV, and dlib. This project can detect faces in video streams and compare them against known face encodings.
+<img width="748" height="528" alt="Screenshot_20250725_165101" src="https://github.com/user-attachments/assets/469dbf8d-6375-475c-b2a4-63436e5fca6f" />
 
 ## Features
 
